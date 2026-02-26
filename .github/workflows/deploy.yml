@@ -3,7 +3,7 @@ name: Deploy Laravel App
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-
+g
     - name: SSH Deploy
       uses: appleboy/ssh-action@v1
       with:
