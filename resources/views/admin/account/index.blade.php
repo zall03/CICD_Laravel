@@ -64,7 +64,7 @@
                         {{-- Social Links --}}
                         <div class="grid gap-6 md:grid-cols-2">
                             <x-admin.input label="Instagram URL" name="url_insta"
-                                placeholder="https://instagram.com/username" icon="fab fa-instagram" :value="old('url_insta', $user->url_insta)"
+                                placeholder="" icon="fab fa-instagram" :value="old('url_insta', $user->url_insta)"
                                 required />
 
                             <x-admin.input label="Twitter URL" name="url_twitter"
