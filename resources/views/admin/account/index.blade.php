@@ -71,7 +71,7 @@
                                 placeholder="https://twitter.com/username" icon="fab fa-twitter" :value="old('url_twitter', $user->url_twitter)"
                                 required />
 
-                            <x-admin.input label="LinkedIn URL" name="url_linkedin"
+                            <x-admin.input label="LinkedIn URL" name="url_linkedi"
                                 placeholder="https://linkedin.com/in/username" icon="fab fa-linkedin" :value="old('url_linkedin', $user->url_linkedin)"
                                 required />
 
