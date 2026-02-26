@@ -103,7 +103,7 @@
 
                                 <button type="submit"
                                     class="inline-flex items-center px-5 py-2.5 bg-green-600 text-white text-sm font-medium
-                                               rounded-lg shadow hover:bg-green-700 transition">
+                                             rounded-lg shadow hover:bg-green-700 transition">
                                     <i class="fas fa-save mr-2"></i>
                                     Update Profile
                                 </button>

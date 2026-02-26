@@ -21,7 +21,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.SSH_PORT }}
           script: |
-            cd /var/www/RizalProject
+            cd /var/www/Rizal_Project
             git pull origin main
             composer install --no-dev
             php artisan migrate --force
