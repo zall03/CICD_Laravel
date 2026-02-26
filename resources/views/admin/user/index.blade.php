@@ -16,7 +16,7 @@
                         <thead class="bg-gray-100 text-gray-700 uppercase text-xs font-semibold tracking-wider">
                             <tr>
                                 <th class="py-4 px-6">#</th>
-                                <th class="py-4 px-6">Name</th>
+                                <th class="py-4 px-6">Coba</th>
                                 <th class="py-4 px-6">Role</th>
                                 <th class="py-4 px-6 text-right">Actions</th>
                             </tr>
